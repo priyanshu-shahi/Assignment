@@ -1,0 +1,28 @@
+1. Python programming language is developed by Guido van Rossum
+2. Python supports Object oriented, Structured and Functional programming.
+3. Yes, Python is a case sensitive language when dealing with identifiers.
+4. The extensions for Python files are '.py'
+5. Python is an interpreted language.
+6. Few blocks of codes are: a modules, a function body and a class definition.
+7. We can write a single-line comment by adding a single '#' character before any statement or line of code.
+8. We can use the sys.version method present in the sys(system) module to print the version of the Python interpreter installed on the system.
+9. Python supports the creation of anonymous functions (i.e. functions that are not bound to a name) at runtime, using a construct called lambda
+10. A pip is (an acronym of “pip Install Packages”) today the standard tool for installing Python packages and their dependencies in a secure manner.
+11. Some built-in Python functions are print( ) function, type( ) function, input( ) function.
+12. An identifier can have a maximum length of 79 characters in Python.
+13. Some benefits of using Python are:
+    i)    Simple to Use and Understand. For newcomers, Python is simple to understand and us
+    ii)   Free and Open-Source
+    iii)  Productivity has Increased
+    iv)   Interpreted Language
+     v)   Extensive library
+     vi)  Dynamically Typed
+    vii)  Portability
+    viii) Supportive community
+14. Python uses the dynamic memory allocation which is managed by the Heap data structure.
+15. i)   Install python from web
+    ii)  After this, install it on your PC. Look for the location where PYTHON has been installed on your PC using tge following command on your command                prompt: cmd python.
+    iii) Then go to advanced system settings and add new variable and name it as PYTHON_NAME and paste the copied path.
+    iv)  Then look for the path variable, select it's value and select edit
+     v)  Add a semicolon towards the end of the value if it's not present and then type '%PYTHON_HOME%'
+ 16. Indentation is important to Python, because it's how you determine scope. Scope is how Python knows what code belongs to what part of the program.
